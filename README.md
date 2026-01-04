@@ -1,2 +1,4 @@
 # C-Codes
-DSA thingies
+DSA thingies 
+This repository contains codes of my DSA journey 
+
